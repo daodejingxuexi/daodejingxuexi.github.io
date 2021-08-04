@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Aug 2021 17:12:41 at https://m.daodejing.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%s%uN0%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "zh, en, *" https://m.daodejing.org/ -O1 "C:\My Websites\m.daodejing" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:13:59	Error: 	"Not Found" (404) at link https://m.daodejing.org/bookimg/public/images/mobile/v2/logo.png?20151210 (from https://m.daodejing.org/css/index.css)
+17:13:59	Error: 	"Not Found" (404) at link https://m.daodejing.org/bookimg/public/images/mobile/v2/common.png?20151210 (from https://m.daodejing.org/css/index.css)
+17:13:59	Error: 	"Not Found" (404) at link https://m.daodejing.org/bookimg/public/images/mobile/v2/pay-icons@1x.png?20151210 (from https://m.daodejing.org/css/index.css)
+17:13:59	Error: 	"Not Found" (404) at link https://m.daodejing.org/bookimg/public/images/mobile/v2/im-tip-border.png?20151210 (from https://m.daodejing.org/css/index.css)
+17:13:59	Error: 	"Not Found" (404) at link https://m.daodejing.org/bookimg/public/images/mobile/v2/app-bottom-tg-dw.png (from https://m.daodejing.org/css/index.css)
+17:14:00	Error: 	"Not Found" (404) at link https://m.daodejing.org/xiazai/µÀµÂ¾­txt.rar (from https://m.daodejing.org/download.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 20 seconds : 331 links scanned, 324 files written (2129451 bytes overall) [1592948 bytes received at 19911 bytes/sec], 1545522 bytes transferred using HTTP compression in 272 files, ratio 56%, 66.2 requests per connection
+(6 errors, 0 warnings, 0 messages)
